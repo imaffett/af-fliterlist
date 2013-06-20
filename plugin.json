@@ -1,0 +1,13 @@
+{
+    "name": "af-filterlist",
+    "title": "Filterlist",
+    "version": "0.1",
+    "author": "Ian Maffett",
+    "license": "MIT X11",
+    "description": "Filterlist plugin for App Framework",
+    "categories": [
+        "menu"
+    ],
+    "homepage": "https://github.com/imaffett/af-filterlist",
+    "maintainers": ["Ian Maffett"]
+}
