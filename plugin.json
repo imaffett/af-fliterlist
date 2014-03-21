@@ -2,7 +2,7 @@
     "name": "af-filterlist",
     "title": "Filterlist",
     "version": "0.1",
-    "author": "Ian Maffett",
+    "author": "Ian Maffett <ian.maffett@gmail.com>",
     "license": "MIT X11",
     "description": "Filterlist plugin for App Framework",
     "categories": [
