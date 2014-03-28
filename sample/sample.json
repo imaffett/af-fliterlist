@@ -1,0 +1,22 @@
+{
+	"sample": {
+		"title": "filterlist",
+		"description": "",
+		"parameters": [{
+			"name": "revealElements",
+			"description": "Reveal elements or not",
+			"type": "select",
+			"value": ["false", "true"]
+		}, {
+			"name": "perPage",
+			"description": "Elements per page",
+			"type": "text",
+			"value": "3" 
+		}, {
+			"name": "caseInsensetive",
+			"description": "Set TRUE to enable",
+			"type": "select",
+			"value": ["true", "false"]
+		}]		
+	}
+}
